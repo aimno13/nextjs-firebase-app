@@ -17,7 +17,7 @@ export default function Home() {
           Welcome to <a href='https://nextjs.org'>Next.js!</a>
         </h1>
 
-        <Link href='./pages2'>
+        <Link href='/pages2'>
           <a>Go to page2</a>
         </Link>
 
